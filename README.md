@@ -8,11 +8,11 @@ I am a passionate individual with a strong foundation in Big Data Analytics and 
 
 ### Programming Languages
 
-- Proficient in *Python, **R, and **C/C++* programming languages, enabling me to tackle data challenges with versatility.
+- Proficient in **Python**, **R**, and **C/C++** programming languages, enabling me to tackle data challenges with versatility .
 
 ### Data Analytics Tools
 
-- Well-versed in utilizing data analytics tools such as *Tableau, **Power BI, and **Google Dashboard* for effective data visualization and analysis.
+- Well-versed in utilizing data analytics tools such as **Tableau**, **Power BI**, and **Google Dashboard** for effective data visualization and analysis.
 
 ### Cloud Platforms
 
