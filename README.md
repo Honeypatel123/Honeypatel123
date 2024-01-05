@@ -30,5 +30,5 @@ Actively seeking opportunities in the field of *Data Analytics and Data Science*
 ## Connect with Me
 
 Feel free to explore my repositories for real-world examples of data analytics and machine learning projects. Let's connect and explore the exciting world of Big Data Analytics together!
-LinkedIn: (@HoneyPatel)[https://www.linkedin.com/in/honey-patel-7081b9252/]
-Email: (email me)[honeypatel039@gmail.com]
+LinkedIn: [@HoneyPatel](https://www.linkedin.com/in/honey-patel-7081b9252/)
+Email: [email me](honeypatel039@gmail.com)
